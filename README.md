@@ -65,5 +65,9 @@ The app's core functionality centers around a simple, intuitive interface where 
 - View the converted amount in the desired currency based on up-to-date exchange rates.
 
 
+## UML DIAGRAM
+![image](https://github.com/Ajaffer5/GlobaCash-Converter-Project/assets/149440888/df6438e1-7a31-4fcc-bd70-42d6a459f720)
+
+
 
 
